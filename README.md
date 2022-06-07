@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jonathangoc - Sales Engineer and Mentor @ Akamai Technologies.
-- 👀 I’m interested in website and application performance and security.
-
+- 👀 I’m interested in website and application performance, security, blockchain technologies and cryptography.
+- 🌱 I’m currently learning IPFS, IPNS and Filecoin.
 
 <!---
 jonathangoc/jonathangoc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
