@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @jonathangoc - Application Security Advisor, Sales Engineer and Mentor @ Akamai Technologies.
 - 👀 I’m interested in website and application performance, security, blockchain technologies and cryptography.
-- 🌱 I’m currently learning IPFS, IPNS and Filecoin.
-- 📫 Please visit my website www.jonathangoc.com to learn more about me and my work.
+- 🧑🏻‍💻 I’m currently learning IPFS, IPNS and Filecoin.
+- 🌐 Please visit www.jonathangoc.com to learn more about me and my work.
